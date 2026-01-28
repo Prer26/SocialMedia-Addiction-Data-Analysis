@@ -17,12 +17,12 @@ Built through a friendly Power BI tug of war, focusing on visual design, interac
 
 ## Dashboard Features
 Interactive slicers for:
-*Country selection (e.g., Afghanistan)
-*Age selection (e.g., 23)
-*Dynamic KPIs that update in real time
-*Country-wise academic impact analysis
-*Gender-wise addiction comparison
-*Age vs sleep hours visualization
+* Country selection (e.g., Afghanistan)
+* Age selection (e.g., 23)
+* Dynamic KPIs that update in real time
+* Country-wise academic impact analysis
+* Gender-wise addiction comparison
+* Age vs sleep hours visualization
 
 ## KPIs Tracked
 
